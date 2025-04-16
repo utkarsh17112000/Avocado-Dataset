@@ -43,3 +43,25 @@ Excel Link: https://docs.google.com/spreadsheets/d/1V5AkrskqMJzZ7rLOAkhnv_99vnMH
 
 🧠 Key Takeaway: Even simple datasets like this one can reveal powerful business insights when analyzed through the right lens.
 
+
+
+
+
+
+# 🥑 Avocado Data Analysis using SQL
+This project explores and analyzes avocado sales data using MySQL. The dataset contains information on avocado prices, volumes, regions, and types over time. Through a series of SQL queries, we extract insights on revenue, pricing trends, volumes, regional preferences, and seasonality.
+
+📁 Database Used
+Database Name: avocado
+
+Table Name: avocado
+
+
+
+📌 Dataset Source
+Kaggle - Avocado Prices
+
+✨ Author
+Your Name
+📧 utkarsh17112000@gmail.com
+🔗 [LinkedIn | GitHub](https://www.linkedin.com/in/utkarsh-thakur-957987178/)
